@@ -45,14 +45,9 @@ Ao analisar a base de dados no Python, cheguei às seguintes conclusões:
 
 ---
 
-## Como rodar o código
+## Como abrir o projeto
 
-1. Baixe os arquivos do repositório.
-2. Abra o arquivo `notebooks/EDA_NPS.ipynb` no Google Colab ou no Jupyter Notebook.
-3. Garanta que o arquivo `desafio_nps_fase_1.csv` esteja salvo na pasta `data/`.
-4. Execute as células de código para ver os gráficos e os cálculos gerados.
-
-Bibliotecas utilizadas:
-* pandas
-* matplotlib
-* seaborn
+Para testar o código:
+1. Abra o arquivo `notebooks/EDA_NPS.ipynb` no Google Colab.
+2. Carregue a base de dados `data/desafio_nps_fase_1.csv`.
+3. Rode as células para visualizar os dados e os gráficos gerados.
